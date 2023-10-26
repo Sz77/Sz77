@@ -91,6 +91,8 @@ Here are some of the technologies I work with:
 ![Firewall](https://img.shields.io/badge/-Firewall-000000?style=flat&logo=firewall&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine%20learning&logoColor=white)
 ![windows](https://img.shields.io/badge/-windows-0078D6?style=flat&logo=windows&logoColor=white)
+![FTC](https://img.shields.io/badge/-FTC-FF0000?style=flat&logo=ftc&logoColor=white)
+![FRC](https://img.shields.io/badge/-FRC-FF0000?style=flat&logo=frc&logoColor=white)
 
 This list represents some of the technologies I work with. Feel free to reach out if you have questions or want to collaborate on a project involving any of these technologies!
 
