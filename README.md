@@ -19,7 +19,8 @@ My favorite search engine is [DuckDuckGo](https://duckduckgo.com).
 ## Socials
 
 📫 You can connect with me on various platforms:
-![Discord](https://img.shields.io/badge/@sz77-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sz77_kartoshka) [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalmanstefan2004@gmail.com) [![FIRST_Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.z@firstvolunteers.org.il) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@stefan_ha_shinshin) 
+
+![Discord](https://img.shields.io/badge/@sz77-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sz77_kartoshka) [![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalmanstefan2004@gmail.com) [![FIRST_Gmail](https://img.shields.io/badge/firstgmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.z@firstvolunteers.org.il) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@stefan_ha_shinshin) 
 
 ## Languages and Tools
 
