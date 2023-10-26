@@ -1,4 +1,3 @@
-Certainly, here's your complete README with all the updates you requested:
 
 
 # Sz77's GitHub README
